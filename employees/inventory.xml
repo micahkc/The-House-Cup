@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<Ingredients>
+  <item>
+    <description>2% Milk</description>
+    <available>0</available>
+    <category>milk</category>
+  </item>
+  <item>
+    <description>Whipped Cream</description>
+    <available>0</available>
+    <category>topping</category>
+  </item>
+  <item>
+    <description>Whole Milk</description>
+    <available>1</available>
+    <category>milk</category>
+  </item>
+  <item>
+    <description>Sparkling Water</description>
+    <available>0</available>
+    <category>other</category>
+  </item>
+  <item>
+    <description>Medium Roast</description>
+    <available>0</available>
+    <category>coffee</category>
+  </item>
+  <item>
+    <description>Light Roast</description>
+    <available>0</available>
+    <category>coffee</category>
+  </item>
+  <item>
+    <description>Salted Caramel (SF)</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Half and Half</description>
+    <available>1</available>
+    <category>coffee</category>
+  </item>
+  <item>
+    <description>Orange</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Butter Pecan</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>shortbread</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>smores (sf)</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>strawberry</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>tangerine</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>toasted marshmallow</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>watermelon</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Chocolate Sauce</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Caramel Sauce</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Chocolate Bar</description>
+    <available>0</available>
+    <category>topping</category>
+  </item>
+  <item>
+    <description>Chocolate Shavings</description>
+    <available>1</available>
+    <category>topping</category>
+  </item>
+  <item>
+    <description>Chocolate Whipped Cream</description>
+    <available>1</available>
+    <category>topping</category>
+  </item>
+  <item>
+    <description>Espresso Roast</description>
+    <available>0</available>
+    <category>coffee</category>
+  </item>
+  <item>
+    <description>amaretto</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>balsamic fig</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>blueberry</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>butter pecan </description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>butterscotch</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>chai tea spice</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>cheesecake</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>cherry</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>chocolate chipp cookie dough</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>classic carmel</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>coconut</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>french vanilla</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>huckleberry</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>itallian eggnog</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>lavender</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Herbal</description>
+    <available>0</available>
+    <category>tea</category>
+  </item>
+  <item>
+    <description>Mint</description>
+    <available>1</available>
+    <category>tea</category>
+  </item>
+  <item>
+    <description>lime</description>
+    <available>0</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>orange </description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>peach</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>peach (sf)</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>peanut butter</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>peppermint</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>pomegranate</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>pumpkin spice</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>raspberry</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>salted carmel (sf)</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Soy Milk</description>
+    <available>1</available>
+    <category>milk</category>
+  </item>
+  <item>
+    <description>Almond Milk</description>
+    <available>1</available>
+    <category>milk</category>
+  </item>
+  <item>
+    <description>Chocolate Syrup</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Espresso</description>
+    <available>1</available>
+    <category>coffee</category>
+  </item>
+  <item>
+    <description>Caramel Syrup</description>
+    <available>1</available>
+    <category>flavoring</category>
+  </item>
+  <item>
+    <description>Cocoa Powder</description>
+    <available>1</available>
+    <category>topping</category>
+  </item>
+  <item>
+    <description>Chocolate Coffee Bean</description>
+    <available>1</available>
+    <category>topping</category>
+  </item>
+</Ingredients>
